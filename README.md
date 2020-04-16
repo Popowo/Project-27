@@ -1,2 +1,2 @@
-# projectC27
- OSCILLATING PENDULUM
+# Project 27
+ Oscillating Pendulum
